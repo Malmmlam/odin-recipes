@@ -1,0 +1,30 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color:#8bb545
+}
+
+.title {
+    text-align: center;
+}
+
+a:link{
+    color: #6E45B5;
+}
+
+.recipe-picture{
+    width: 400px;
+    height: auto;
+}
+
+.recipe-steps{
+    list-style-position:outside;
+}
+
+img{
+    width:auto;
+    border: 4px solid #458BB5;
+
+}
